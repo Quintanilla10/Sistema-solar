@@ -1,5 +1,5 @@
 # QUINTANILLA - Explorador Solar Interactivo 🌌
-[http//sistema-solar-production.up.railway.app]
+[https://sistema-solar-production.up.railway.app]
 
 ¡Bienvenido a **QUINTANILLA**, un elegante e interactivo visualizador del sistema solar en 3D desarrollado en **React, Vite y Tailwind CSS**!
 
