@@ -1,0 +1,6 @@
+{
+  "name": "QUINTANILLA",
+  "description": "An interactive 3D-styled solar explorer with animated orbits and customizable planetary facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
